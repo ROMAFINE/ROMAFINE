@@ -1,22 +1,17 @@
 <h1 align="center">Hi 👋, I'm Roma</h1>
 
 <p align="center">
-High School Student • Programming Enthusiast • Future AI Developer
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Programming;Future+AI+Engineer;Python+Developer;Math+and+Physics+Programmer&center=true&width=500&height=45">
+Programming Enthusiast • Future AI Developer
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 High school student interested in **programming and computational science**
 - 💻 Currently learning **Python, C++, Java, HTML, and JavaScript**
 - 🔬 Interested in **Artificial Intelligence, Algorithms, and Scientific Programming**
 - 📚 Often experimenting with **math and physics programs**
-- ❤️ Fun fact: My partner works as an **AI Engineer**, which motivates me to learn more about artificial intelligence.
+- ❤️ Fun fact: My lover works as an **AI Engineer**, which motivates me to learn more about artificial intelligence.
 
 ---
 
